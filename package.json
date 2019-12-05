@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "noise visualizers for procedural generation",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel index.html"
+  },
+  "author": "Alex Bennett // timetocode",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "mersenne-twister": "^1.1.0",
+    "parcel": "^1.12.4",
+    "simplex-noise": "^2.4.0"
+  }
+}
